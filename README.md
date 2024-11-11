@@ -1,20 +1,19 @@
 # Unity Projects
 Portfolio for Unity C# Game & Simulation Development:
 
-  Fleet Defense Mobile: [Details here](./Assets/Images/Unity/fleetdefense.md)
+  Fleet Defense Mobile: [Details here](./Assets/Unity/fleetdefense.md)
 
-  Gorilla Vs Panda Tag (Hybrid): [Details here](./Assets/Images/Unity/gorillavspandatag.md)
+  Gorilla Vs Panda Tag (Hybrid): [Details here](./Assets/Unity/gorillavspandatag.md)
   
-  AR Interior Designing App: [Details here](./Assets/Images/Unity/arniture.md)
+  AR Interior Designing App: [Details here](./Assets/Unity/arniture.md)
 
-  Bouncing Ball (Andriod & iOS): [Details here](./Assets/Images/Unity/bouncingBall.md)
+  Bouncing Ball (Andriod & iOS): [Details here](./Assets/Unity/bouncingBall.md)
   
 
 # Wordpress Websites
 Portfolio for WordPress Websites that I have built so far:
 
-  Try Spectrum: [https://try-spectrum.com/](https://try-spectrum.com/)
-  <img src="./Assets/Images/WordPress/try-sepctrum-NEW.jpeg" alt="Arniture"/>
+  Try Spectrum: [Details here](./Assets/WordPress/tryspectrum.md)
 
   GTCO: https://wordpress.readyforretech.com/
 

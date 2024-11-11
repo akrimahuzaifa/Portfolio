@@ -8,6 +8,6 @@
 
   **Skills and deliverables**
 
-  Google Ads    Real-TimeStrategy   MobileGameDevelopment   C#    iOS   Andriod
+  Google Ads    Real-Time Strategy   Mobile Game Development   C#    iOS   Andriod
 
-  <img src="./FleetDefense_Main.jpg" alt="FleetDefense_MainImage"/>
+  <img src="./images/FleetDefense_Main.jpg" alt="FleetDefense_MainImage"/>

@@ -6,6 +6,6 @@
 
   **Skills and deliverables**
 
-  Unity   C#    GameDevelopment   AndroidApp    GooglePlay  
+  Unity   C#    Game Development   Android App    Google Play  
 
-  <img src="./bouncingBall.jpg" alt="bouncingBall"/>
+  <img src="./images/bouncingBall.jpg" alt="bouncingBall"/>

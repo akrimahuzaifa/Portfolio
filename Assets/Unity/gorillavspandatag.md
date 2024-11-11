@@ -8,6 +8,6 @@
 
   **Skills and deliverables**
 
-  Google Ads    Unity   MobileApp   AIBot   GameDevelopment   Bug Fix   C#
+  Google Ads    Unity   Mobile App   AI Bot   Game Development   Bug Fix   C#
 
-  <img src="./pandaMainImage.jpg" alt="pandaMainImage"/>
+  <img src="./images/pandaMainImage.jpg" alt="pandaMainImage"/>
