@@ -8,6 +8,7 @@
 
   **Skills and deliverables**
 
-  | Google Ads | Unity | Mobile App | AI Bot | Game Development | Bug Fix | C#
+  | Google Ads | Unity | Mobile App | AI Bot | Game Development | Bug Fix | C# |
+  |------------|-------|------------|--------|------------------|---------|----|
 
   <img src="./images/pandaMainImage.jpg" alt="pandaMainImage"/>

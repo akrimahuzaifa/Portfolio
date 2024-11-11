@@ -6,6 +6,7 @@
 
   **Skills and deliverables**
 
-  | Unity | C# | Game Development | Android App | Google Play |  
+  | Unity | C# | Game Development | Android App | Google Play |
+  |-------|----|------------------|-------------|-------------|  
 
   <img src="./images/bouncingBall.jpg" alt="bouncingBall"/>
