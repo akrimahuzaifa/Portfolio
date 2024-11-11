@@ -6,6 +6,6 @@
 
   **Skills and deliverables**
 
-  Augmented Reality   Virtual Reality   AR & VR Development   UX & UI Design    3D Modeling 
+  | Augmented Reality | Virtual Reality | AR & VR Development | UX & UI Design | 3D Modeling |
 
   <img src="./images/ARniture_Main.jpg" alt="Arniture"/>

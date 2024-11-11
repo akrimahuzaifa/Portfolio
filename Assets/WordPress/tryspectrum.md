@@ -1,6 +1,7 @@
 # Try Spectrum
 
   Try Spectrum (Telecommunication): [visit website](https://try-spectrum.com/)
+
   My role: WordPress Developer
 
   Project description:
@@ -8,7 +9,8 @@
 
   **Skills and deliverables**
 
-  Theme Development   Custom PHP    Custom Web Design   Design-to-Code
+  | Theme Development | Custom PHP | Custom Web Design | Design-to-Code | Custom Theme Development |
+  |-------------------|------------|-------------------|----------------|--------------------------|
 
   
   <img src="./images/try-sepctrum-NEW.jpeg" alt="tryspectrumimage"/>
