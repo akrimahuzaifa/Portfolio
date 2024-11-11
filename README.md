@@ -1,3 +1,11 @@
+# Unity Projects
+Portfolio for Unity C# Game & Simulation Development:
+
+  AR Interior Designing App: https://github.com/akrimahuzaifa/ARniture
+  A freelance project for a client. In the app revolutionize your interior design experience with our Unity-powered AR app. Explore, customize, and visualize your dream space in real-time. Effortlessly integrate virtual furniture and decor into your actual surroundings. Redefine your home design journey with seamless creativity and cutting-edge technology.
+  <img src="./Assets/Images/Unity/ARniture_Main.jpg" alt="Arniture"/>
+
+
 # Wordpress Websites
 Portfolio for WordPress Websites that I have built so far:
 
@@ -24,8 +32,6 @@ Portfolio for WordPress Websites that I have built so far:
   Chef Chen Frisco TX: https://chefchen.codlian.tech/
 
 
-# Unity Projects
-Portfolio for Unity C# Game & Simulation Development:
-AR Interior Designing App
+
 
 
